@@ -4,7 +4,7 @@
    2_user name은 **학번+영문이름**으로 설정할 것!<br>
    3_아래 링크를 눌러 개인 과제 저장소를 생성하세요.<br>
    4_반드시 본인의 학급 링크만 클릭할 것 !!!!!!! 🔥🔥🔥🔥🔥<br>
-     2-2반 (https://classroom.github.com/a/jzv43H_i)<br>
+     2-2반 (https://classroom.github.com/a/gULTtyZY)<br>
      <br>
      <br>
 2. user-name과 이메일주소 제출하기<br>
